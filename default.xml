@@ -12,7 +12,7 @@
 
   <remote  name="mo"
            revision="mm-6.0"
-           fetch="https://github.com/Minimal-AOSP/" />
+           fetch="https://github.com/MinimalOS-AOSP/" />
            
   <remote  name="github"
            fetch="https://github.com/" />

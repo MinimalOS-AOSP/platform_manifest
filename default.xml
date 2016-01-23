@@ -11,7 +11,7 @@
            sync-j="4" />
 
   <remote  name="mo"
-           revision="mm-6.0"
+           revision="mr1"
            fetch="https://github.com/MinimalOS-AOSP/" />
            
   <remote  name="github"

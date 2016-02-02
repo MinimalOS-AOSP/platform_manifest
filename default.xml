@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
-  <default revision="refs/tags/android-6.0.1_r10"
+  <default revision="refs/tags/android-6.0.1_r13"
            remote="aosp"
            sync-c="true"
            sync-j="4" />

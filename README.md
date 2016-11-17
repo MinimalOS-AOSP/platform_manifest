@@ -37,7 +37,7 @@ Repositories:
 
 For initializing repo use:
 
-    repo init -u https://github.com/MinimalOS-AOSP/platform_manifest.git -b mr1
+    repo init -u https://github.com/MinimalOS-AOSP/platform_manifest.git -b android-7.1
 
 
 sync repo:
